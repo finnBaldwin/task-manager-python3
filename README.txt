@@ -22,7 +22,7 @@ Installation
 ------------
 1. Clone this repository or download the source code.
 
-   git clone https://github.com/finnBaldwin/task-manager-python.git
+   git clone https://github.com/finnBaldwin/task-manager-python3.git
 
 2. Navigate into the project directory:
 
